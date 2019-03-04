@@ -2,3 +2,4 @@ name: Temporary Name
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url: ""
+baseurl: "/" 
