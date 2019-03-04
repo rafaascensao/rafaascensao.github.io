@@ -1,3 +1,6 @@
+@import "spotify-embed";
+@import "header-with-logo";
+
 body {
     margin: 60px auto;
     width: 70%;
