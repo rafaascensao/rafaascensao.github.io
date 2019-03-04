@@ -10,4 +10,4 @@ navigation:
 - link: "/team"
   link_text: Team
 ---
-<h1>Fuck this shit</h1>
+# Fuck this shit
