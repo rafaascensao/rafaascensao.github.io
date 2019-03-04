@@ -1,7 +1,9 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -19,6 +21,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -28,8 +31,9 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 10px;
     font-size: .8em;
 }
 
@@ -42,23 +46,7 @@ ul.posts li {
     list-style: none;
 }
 
-.embed-spotify {
-    position: relative;
-    padding-bottom: 100%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  
-  .embed-spotify iframe, .embed-spotify object, .embed-spotify embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-  .header-with-logo {
+.header-with-logo {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-pack: justify;
@@ -67,6 +55,8 @@ ul.posts li {
     align-items: center;
     padding: 16px 32px;
     padding: 1rem 2rem;
+    background-color: #2b2b2b;
+    margin-bottom: 15px;
 }
   
 .header-with-logo img {
@@ -88,6 +78,7 @@ ul.posts li {
     margin-right: 1rem;
     font-size: 13.6px;
     font-size: .85rem;
+    margin-bottom: 10px;
 }
   
 .header-with-logo .nav-item.active a {
@@ -114,4 +105,20 @@ ul.posts li {
   .header-with-logo--cta {
     margin-left: 32px;
     margin-left: 2rem;
+  }
+
+  .embed-spotify {
+    position: relative;
+    padding-bottom: 100%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .embed-spotify iframe, .embed-spotify object, .embed-spotify embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
