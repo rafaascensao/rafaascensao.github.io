@@ -1,0 +1,16 @@
+<header class="header-with-logo">
+    <div class= "header-with-logo--logo">
+        <a href="{{ site.url | relative_url }}">
+            <img src="{{ page.logo | relative_url }}">
+        </a>
+    </div>
+
+    <nav class="header-with-logo--nav">
+        <ul>
+            {% for nav_item in page.navigation %}
+            <li class="nav.item">
+                <a href="{{ nav_item.link }}">{{ nav_item.link_text }}</a>
+            </li>
+        </ul>
+    </nav>
+</header>

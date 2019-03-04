@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Temporary Name Launches Site"
-date: 2014-02-26
+date: 2019-02-26
 spotifyplaylist: omgpancakeable/playlist/29cxXpgTcz1D0zppAZuTeK?si=I0peVVDhTHKAxYdDmKf5sQ
 ---
 
