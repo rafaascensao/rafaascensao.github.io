@@ -1,9 +1,10 @@
 ---
 layout: post-no-feature
-title: "Week Review - Outside by Burna Boy and All Melody by Nils Frahm"
-description: "Gang reviews Outside by Burna Boy"
-category: articles
-tags: [sample post, readability, test]
+title: "Week Review 1"
+description: "Outside by Burna Boy and All Melody by Nils Frahm"
+category: reviews
 ---
 
-Gang reviews Outside by Burna Boy
+Copy paste stuff here and organize stuff
+
+Also put playlists.
