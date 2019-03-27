@@ -9,4 +9,4 @@ Copy paste stuff here and organize stuff
 
 Also put playlists.
 
-{% include spotifyplaylist.html id=7FUIQIDxNu0F8iH98irz7N %}
+{% include spotifyalbum.html id=7FUIQIDxNu0F8iH98irz7N %}
