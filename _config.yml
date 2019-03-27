@@ -25,6 +25,10 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Reviews
+    url: /review
+  - title: Playlists
+    url: /playlists 
   - title: About
     url: /about
   - title: Github
