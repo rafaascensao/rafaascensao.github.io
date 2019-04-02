@@ -10,4 +10,6 @@ playlists:
       title: February
     - id: omgpancakeable/playlist/76YCndueS2M2dYSwg58qmu?si=EcEj9nwOQUG5NdEWGxcu7Q
       title: March
+    - id: omgpancakeable/playlist/4OL9K5Z0wBUDbsXvgANw68?si=YyuUp8-vS6SgdL4VldmO0A
+      title: April
 ---
