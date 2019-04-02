@@ -19,5 +19,5 @@ All Melody by [Nils Frahm](https://genius.com/artists/Nils-frahm) is *bla bla*
 
 <figure>
 	<img src="/images/post_images/shaq_outside_allmelody.jpg">
-	<figcaption>Caption describing these two images.</figcaption>
+	<figcaption>Album Meme Review</figcaption>
 </figure>
