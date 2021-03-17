@@ -4,6 +4,6 @@ permalink: /playlists/index.html
 title: "Playlists"
 tags: [blog, playlists, music]
 playlists:
-    - id: 4zrRgpbtmnPHpHUHXPVWes?si=-b0imnWmQgyH9oEqDlbwaA
+    - id: 4zrRgpbtmnPHpHUHXPVWes
       title: Breath and Calm Down 
 ---
