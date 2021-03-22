@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Kendrick Lamar's Poem"
-description: "To Pimp a Butterfly by Kendrick Lamar"
+description: ""
 category: reviews
 album1: 7FUIQIDxNu0F8iH98irz7N
 album2: 26du6obYLeY1vf6xIJ1l0D
